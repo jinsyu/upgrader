@@ -135,8 +135,7 @@ class UpgraderMessages {
             'Una nuova versione di {{appName}} è disponibile! La versione {{currentAppStoreVersion}} è ora disponibile, voi avete {{currentInstalledVersion}}.';
         break;
       case 'ko':
-        message =
-            '{{appName}}이 새 버전으로 업데이트되었습니다! 최신 버전 {{currentAppStoreVersion}}으로 업그레이드 가능합니다 - 현재 버전 {{currentInstalledVersion}}.';
+        message = '기능이 개선된 최신버전이 출시되었습니다. 지금 업데이트를 하시는 것이 좋습니다. 하시겠습니까?';
         break;
       case 'pt':
         message =

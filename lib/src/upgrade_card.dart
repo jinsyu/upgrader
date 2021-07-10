@@ -87,7 +87,7 @@ class UpgradeCard extends UpgradeBase {
                       mainAxisSize: MainAxisSize.min,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
-                        Text('Release Notes:',
+                        Text('개선 사항:',
                             style: TextStyle(fontWeight: FontWeight.bold)),
                         Text(
                           releaseNotes,
